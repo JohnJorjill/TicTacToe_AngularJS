@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crwn-db-bddf9": {
+      "hosting": {
+        "myapp": [
+          "crwn-db-bddf9"
+        ]
+      }
+    }
+  }
+}
